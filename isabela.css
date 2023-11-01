@@ -49,5 +49,10 @@ nav a{
     font-weight: 300;
     font-size: 100%;
 }
-hav a:huver{
+nav a :hover{
+    color:purple;
+    text-decoration: underline
+}
+    
+    
     
